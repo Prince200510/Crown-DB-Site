@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://crown-db.vercel.app/</loc></url>
+  <url><loc>https://crown-db.vercel.app/docs/overview</loc></url>
+  <url><loc>https://crown-db.vercel.app/docs/install-build</loc></url>
+  <url><loc>https://crown-db.vercel.app/docs/cli-guide</loc></url>
+  <url><loc>https://crown-db.vercel.app/docs/sql-reference</loc></url>
+  <url><loc>https://crown-db.vercel.app/docs/cpp-api-reference</loc></url>
+  <url><loc>https://crown-db.vercel.app/docs/storage-format</loc></url>
+  <url><loc>https://crown-db.vercel.app/docs/troubleshooting</loc></url>
+</urlset>
