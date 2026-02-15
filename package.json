@@ -2,6 +2,7 @@
   "name": "crowndb-site",
   "author": "Prince Maurya",
   "email": "princemaurya8879@gmail.com",
+  "description": "The official website for CrownDB, a powerful and user-friendly database management system designed to simplify data handling and enhance productivity.",
   "private": true,
   "version": "1.0.1",
   "type": "module",
